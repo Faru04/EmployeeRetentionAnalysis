@@ -1,5 +1,5 @@
 # DataAnalyst_FullProject
-Tools - Advance Excel,PowerBi,SQL,Tableau
+Tools:Advance Excel,PowerBi,SQL,Tableau
 "Welcome to my data analyst project, where I used a variety of tools to derive insights from employee data and create a comprehensive dashboard for employee retention analysis.
 
 The project involved working with large datasets from HR records, and I used a variety of tools to extract, transform, and load the data. I leveraged advanced Excel functionalities such as data validation, conditional formatting, and pivot tables to clean and organize the data. I also used SQL to join multiple tables and extract data needed for analysis.
